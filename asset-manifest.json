@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ggsheet-react-tool/static/css/main.f855e6bc.css",
+    "main.js": "/ggsheet-react-tool/static/js/main.de74fe4d.js",
+    "static/js/453.9dfeb2f0.chunk.js": "/ggsheet-react-tool/static/js/453.9dfeb2f0.chunk.js",
+    "index.html": "/ggsheet-react-tool/index.html",
+    "main.f855e6bc.css.map": "/ggsheet-react-tool/static/css/main.f855e6bc.css.map",
+    "main.de74fe4d.js.map": "/ggsheet-react-tool/static/js/main.de74fe4d.js.map",
+    "453.9dfeb2f0.chunk.js.map": "/ggsheet-react-tool/static/js/453.9dfeb2f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.de74fe4d.js"
+  ]
+}
